@@ -11,9 +11,6 @@ import (
 )
 
 func main() {
-	//init logger
-	logger.InitLogger()
-
 	//start database
 
 	db.StartDB()

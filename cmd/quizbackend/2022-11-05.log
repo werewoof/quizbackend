@@ -1,0 +1,9 @@
+INFO: 2022/11/05 13:32:49 main.go:23: server: Server started on port 8080
+DEBUG: 2022/11/05 13:39:35 auth.go:15: user: user submited auth request
+DEBUG: 2022/11/05 13:39:35 auth.go:73: user: user logged in
+DEBUG: 2022/11/05 13:39:37 auth.go:15: user: user submited auth request
+DEBUG: 2022/11/05 13:39:37 auth.go:73: user: user logged in
+DEBUG: 2022/11/05 13:39:58 create.go:13: user: user submited create request
+INFO: 2022/11/05 13:39:58 create.go:46: username already exists
+INFO: 2022/11/05 13:40:27 main.go:32: server: Shutting down server
+FATAL: 2022/11/05 13:40:27 main.go:25: http: Server closed
